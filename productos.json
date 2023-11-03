@@ -1,0 +1,642 @@
+[
+  {
+    "clave": "001",
+    "precio": 26.15,
+    "clasificacion": "Clasificación 5",
+    "existencia": 37,
+    "existencia_minima": 5,
+    "existencia_maxima": 54
+  },
+  {
+    "clave": "002",
+    "precio": 18.16,
+    "clasificacion": "Clasificación 1",
+    "existencia": 11,
+    "existencia_minima": 14,
+    "existencia_maxima": 63
+  },
+  {
+    "clave": "003",
+    "precio": 41.73,
+    "clasificacion": "Clasificación 1",
+    "existencia": 46,
+    "existencia_minima": 18,
+    "existencia_maxima": 78
+  },
+  {
+    "clave": "004",
+    "precio": 14.11,
+    "clasificacion": "Clasificación 4",
+    "existencia": 45,
+    "existencia_minima": 14,
+    "existencia_maxima": 64
+  },
+  {
+    "clave": "005",
+    "precio": 44.19,
+    "clasificacion": "Clasificación 2",
+    "existencia": 19,
+    "existencia_minima": 13,
+    "existencia_maxima": 56
+  },
+  {
+    "clave": "006",
+    "precio": 10.65,
+    "clasificacion": "Clasificación 3",
+    "existencia": 42,
+    "existencia_minima": 24,
+    "existencia_maxima": 71
+  },
+  {
+    "clave": "007",
+    "precio": 18.44,
+    "clasificacion": "Clasificación 1",
+    "existencia": 15,
+    "existencia_minima": 24,
+    "existencia_maxima": 31
+  },
+  {
+    "clave": "008",
+    "precio": 22.5,
+    "clasificacion": "Clasificación 2",
+    "existencia": 37,
+    "existencia_minima": 14,
+    "existencia_maxima": 50
+  },
+  {
+    "clave": "009",
+    "precio": 35.48,
+    "clasificacion": "Clasificación 3",
+    "existencia": 39,
+    "existencia_minima": 21,
+    "existencia_maxima": 49
+  },
+  {
+    "clave": "0010",
+    "precio": 37.79,
+    "clasificacion": "Clasificación 1",
+    "existencia": 48,
+    "existencia_minima": 5,
+    "existencia_maxima": 54
+  },
+  {
+    "clave": "0011",
+    "precio": 20.25,
+    "clasificacion": "Clasificación 1",
+    "existencia": 5,
+    "existencia_minima": 18,
+    "existencia_maxima": 46
+  },
+  {
+    "clave": "0012",
+    "precio": 43.01,
+    "clasificacion": "Clasificación 3",
+    "existencia": 41,
+    "existencia_minima": 20,
+    "existencia_maxima": 62
+  },
+  {
+    "clave": "0013",
+    "precio": 8.66,
+    "clasificacion": "Clasificación 5",
+    "existencia": 29,
+    "existencia_minima": 18,
+    "existencia_maxima": 50
+  },
+  {
+    "clave": "0014",
+    "precio": 49.92,
+    "clasificacion": "Clasificación 5",
+    "existencia": 10,
+    "existencia_minima": 17,
+    "existencia_maxima": 76
+  },
+  {
+    "clave": "0015",
+    "precio": 20.56,
+    "clasificacion": "Clasificación 5",
+    "existencia": 22,
+    "existencia_minima": 16,
+    "existencia_maxima": 46
+  },
+  {
+    "clave": "0016",
+    "precio": 30.61,
+    "clasificacion": "Clasificación 1",
+    "existencia": 35,
+    "existencia_minima": 10,
+    "existencia_maxima": 39
+  },
+  {
+    "clave": "0017",
+    "precio": 45.71,
+    "clasificacion": "Clasificación 1",
+    "existencia": 28,
+    "existencia_minima": 6,
+    "existencia_maxima": 71
+  },
+  {
+    "clave": "0018",
+    "precio": 45.02,
+    "clasificacion": "Clasificación 2",
+    "existencia": 20,
+    "existencia_minima": 21,
+    "existencia_maxima": 32
+  },
+  {
+    "clave": "0019",
+    "precio": 37.29,
+    "clasificacion": "Clasificación 3",
+    "existencia": 15,
+    "existencia_minima": 24,
+    "existencia_maxima": 61
+  },
+  {
+    "clave": "0020",
+    "precio": 46.5,
+    "clasificacion": "Clasificación 2",
+    "existencia": 25,
+    "existencia_minima": 23,
+    "existencia_maxima": 44
+  },
+  {
+    "clave": "0021",
+    "precio": 19.68,
+    "clasificacion": "Clasificación 1",
+    "existencia": 28,
+    "existencia_minima": 22,
+    "existencia_maxima": 42
+  },
+  {
+    "clave": "0022",
+    "precio": 21.41,
+    "clasificacion": "Clasificación 3",
+    "existencia": 18,
+    "existencia_minima": 7,
+    "existencia_maxima": 39
+  },
+  {
+    "clave": "0023",
+    "precio": 27.57,
+    "clasificacion": "Clasificación 3",
+    "existencia": 43,
+    "existencia_minima": 24,
+    "existencia_maxima": 36
+  },
+  {
+    "clave": "0024",
+    "precio": 34.08,
+    "clasificacion": "Clasificación 2",
+    "existencia": 33,
+    "existencia_minima": 9,
+    "existencia_maxima": 67
+  },
+  {
+    "clave": "0025",
+    "precio": 29.17,
+    "clasificacion": "Clasificación 3",
+    "existencia": 16,
+    "existencia_minima": 19,
+    "existencia_maxima": 73
+  },
+  {
+    "clave": "0026",
+    "precio": 33.13,
+    "clasificacion": "Clasificación 5",
+    "existencia": 37,
+    "existencia_minima": 18,
+    "existencia_maxima": 62
+  },
+  {
+    "clave": "0027",
+    "precio": 33.68,
+    "clasificacion": "Clasificación 4",
+    "existencia": 6,
+    "existencia_minima": 16,
+    "existencia_maxima": 66
+  },
+  {
+    "clave": "0028",
+    "precio": 45.69,
+    "clasificacion": "Clasificación 3",
+    "existencia": 19,
+    "existencia_minima": 23,
+    "existencia_maxima": 69
+  },
+  {
+    "clave": "0029",
+    "precio": 11.57,
+    "clasificacion": "Clasificación 5",
+    "existencia": 43,
+    "existencia_minima": 21,
+    "existencia_maxima": 71
+  },
+  {
+    "clave": "0030",
+    "precio": 11.55,
+    "clasificacion": "Clasificación 3",
+    "existencia": 17,
+    "existencia_minima": 19,
+    "existencia_maxima": 33
+  },
+  {
+    "clave": "0031",
+    "precio": 48.16,
+    "clasificacion": "Clasificación 1",
+    "existencia": 44,
+    "existencia_minima": 23,
+    "existencia_maxima": 79
+  },
+  {
+    "clave": "0032",
+    "precio": 28.9,
+    "clasificacion": "Clasificación 4",
+    "existencia": 11,
+    "existencia_minima": 7,
+    "existencia_maxima": 31
+  },
+  {
+    "clave": "0033",
+    "precio": 28.58,
+    "clasificacion": "Clasificación 5",
+    "existencia": 26,
+    "existencia_minima": 17,
+    "existencia_maxima": 66
+  },
+  {
+    "clave": "0034",
+    "precio": 36.58,
+    "clasificacion": "Clasificación 2",
+    "existencia": 24,
+    "existencia_minima": 5,
+    "existencia_maxima": 72
+  },
+  {
+    "clave": "0035",
+    "precio": 23.76,
+    "clasificacion": "Clasificación 3",
+    "existencia": 14,
+    "existencia_minima": 20,
+    "existencia_maxima": 69
+  },
+  {
+    "clave": "0036",
+    "precio": 33.12,
+    "clasificacion": "Clasificación 3",
+    "existencia": 11,
+    "existencia_minima": 16,
+    "existencia_maxima": 49
+  },
+  {
+    "clave": "0037",
+    "precio": 7.07,
+    "clasificacion": "Clasificación 2",
+    "existencia": 50,
+    "existencia_minima": 19,
+    "existencia_maxima": 54
+  },
+  {
+    "clave": "0038",
+    "precio": 47.4,
+    "clasificacion": "Clasificación 5",
+    "existencia": 1,
+    "existencia_minima": 17,
+    "existencia_maxima": 41
+  },
+  {
+    "clave": "0039",
+    "precio": 12.74,
+    "clasificacion": "Clasificación 3",
+    "existencia": 47,
+    "existencia_minima": 24,
+    "existencia_maxima": 56
+  },
+  {
+    "clave": "0040",
+    "precio": 38.49,
+    "clasificacion": "Clasificación 2",
+    "existencia": 32,
+    "existencia_minima": 20,
+    "existencia_maxima": 64
+  },
+  {
+    "clave": "0041",
+    "precio": 43.02,
+    "clasificacion": "Clasificación 3",
+    "existencia": 2,
+    "existencia_minima": 16,
+    "existencia_maxima": 75
+  },
+  {
+    "clave": "0042",
+    "precio": 20.73,
+    "clasificacion": "Clasificación 2",
+    "existencia": 45,
+    "existencia_minima": 11,
+    "existencia_maxima": 42
+  },
+  {
+    "clave": "0043",
+    "precio": 46.14,
+    "clasificacion": "Clasificación 4",
+    "existencia": 22,
+    "existencia_minima": 13,
+    "existencia_maxima": 31
+  },
+  {
+    "clave": "0044",
+    "precio": 34.23,
+    "clasificacion": "Clasificación 2",
+    "existencia": 39,
+    "existencia_minima": 14,
+    "existencia_maxima": 33
+  },
+  {
+    "clave": "0045",
+    "precio": 21.36,
+    "clasificacion": "Clasificación 4",
+    "existencia": 37,
+    "existencia_minima": 18,
+    "existencia_maxima": 39
+  },
+  {
+    "clave": "0046",
+    "precio": 20.52,
+    "clasificacion": "Clasificación 4",
+    "existencia": 29,
+    "existencia_minima": 20,
+    "existencia_maxima": 65
+  },
+  {
+    "clave": "0047",
+    "precio": 12.18,
+    "clasificacion": "Clasificación 2",
+    "existencia": 17,
+    "existencia_minima": 20,
+    "existencia_maxima": 45
+  },
+  {
+    "clave": "0048",
+    "precio": 13.32,
+    "clasificacion": "Clasificación 4",
+    "existencia": 24,
+    "existencia_minima": 24,
+    "existencia_maxima": 46
+  },
+  {
+    "clave": "0049",
+    "precio": 46.77,
+    "clasificacion": "Clasificación 1",
+    "existencia": 50,
+    "existencia_minima": 22,
+    "existencia_maxima": 50
+  },
+  {
+    "clave": "0050",
+    "precio": 32.19,
+    "clasificacion": "Clasificación 3",
+    "existencia": 3,
+    "existencia_minima": 14,
+    "existencia_maxima": 61
+  },
+  {
+    "clave": "0051",
+    "precio": 33.32,
+    "clasificacion": "Clasificación 5",
+    "existencia": 2,
+    "existencia_minima": 21,
+    "existencia_maxima": 71
+  },
+  {
+    "clave": "0052",
+    "precio": 37.94,
+    "clasificacion": "Clasificación 2",
+    "existencia": 6,
+    "existencia_minima": 16,
+    "existencia_maxima": 65
+  },
+  {
+    "clave": "0053",
+    "precio": 23.2,
+    "clasificacion": "Clasificación 1",
+    "existencia": 2,
+    "existencia_minima": 20,
+    "existencia_maxima": 39
+  },
+  {
+    "clave": "0054",
+    "precio": 17.12,
+    "clasificacion": "Clasificación 5",
+    "existencia": 42,
+    "existencia_minima": 6,
+    "existencia_maxima": 42
+  },
+  {
+    "clave": "0055",
+    "precio": 38.87,
+    "clasificacion": "Clasificación 1",
+    "existencia": 25,
+    "existencia_minima": 19,
+    "existencia_maxima": 53
+  },
+  {
+    "clave": "0056",
+    "precio": 16.55,
+    "clasificacion": "Clasificación 2",
+    "existencia": 23,
+    "existencia_minima": 16,
+    "existencia_maxima": 36
+  },
+  {
+    "clave": "0057",
+    "precio": 17.6,
+    "clasificacion": "Clasificación 3",
+    "existencia": 14,
+    "existencia_minima": 17,
+    "existencia_maxima": 79
+  },
+  {
+    "clave": "0058",
+    "precio": 25.79,
+    "clasificacion": "Clasificación 2",
+    "existencia": 39,
+    "existencia_minima": 16,
+    "existencia_maxima": 75
+  },
+  {
+    "clave": "0059",
+    "precio": 45.04,
+    "clasificacion": "Clasificación 2",
+    "existencia": 33,
+    "existencia_minima": 22,
+    "existencia_maxima": 39
+  },
+  {
+    "clave": "0060",
+    "precio": 18.02,
+    "clasificacion": "Clasificación 4",
+    "existencia": 7,
+    "existencia_minima": 10,
+    "existencia_maxima": 57
+  },
+  {
+    "clave": "0061",
+    "precio": 19.91,
+    "clasificacion": "Clasificación 3",
+    "existencia": 23,
+    "existencia_minima": 24,
+    "existencia_maxima": 64
+  },
+  {
+    "clave": "0062",
+    "precio": 43.41,
+    "clasificacion": "Clasificación 4",
+    "existencia": 26,
+    "existencia_minima": 13,
+    "existencia_maxima": 65
+  },
+  {
+    "clave": "0063",
+    "precio": 17.69,
+    "clasificacion": "Clasificación 2",
+    "existencia": 2,
+    "existencia_minima": 19,
+    "existencia_maxima": 49
+  },
+  {
+    "clave": "0064",
+    "precio": 31.13,
+    "clasificacion": "Clasificación 1",
+    "existencia": 8,
+    "existencia_minima": 9,
+    "existencia_maxima": 75
+  },
+  {
+    "clave": "0065",
+    "precio": 36.35,
+    "clasificacion": "Clasificación 2",
+    "existencia": 18,
+    "existencia_minima": 9,
+    "existencia_maxima": 32
+  },
+  {
+    "clave": "0066",
+    "precio": 15.06,
+    "clasificacion": "Clasificación 4",
+    "existencia": 26,
+    "existencia_minima": 18,
+    "existencia_maxima": 77
+  },
+  {
+    "clave": "0067",
+    "precio": 43.06,
+    "clasificacion": "Clasificación 2",
+    "existencia": 5,
+    "existencia_minima": 12,
+    "existencia_maxima": 64
+  },
+  {
+    "clave": "0068",
+    "precio": 39.71,
+    "clasificacion": "Clasificación 5",
+    "existencia": 13,
+    "existencia_minima": 12,
+    "existencia_maxima": 40
+  },
+  {
+    "clave": "0069",
+    "precio": 21.09,
+    "clasificacion": "Clasificación 5",
+    "existencia": 32,
+    "existencia_minima": 16,
+    "existencia_maxima": 65
+  },
+  {
+    "clave": "0070",
+    "precio": 24.23,
+    "clasificacion": "Clasificación 4",
+    "existencia": 12,
+    "existencia_minima": 5,
+    "existencia_maxima": 57
+  },
+  {
+    "clave": "0071",
+    "precio": 27.11,
+    "clasificacion": "Clasificación 3",
+    "existencia": 27,
+    "existencia_minima": 20,
+    "existencia_maxima": 32
+  },
+  {
+    "clave": "0072",
+    "precio": 36.99,
+    "clasificacion": "Clasificación 1",
+    "existencia": 10,
+    "existencia_minima": 9,
+    "existencia_maxima": 51
+  },
+  {
+    "clave": "0073",
+    "precio": 39.6,
+    "clasificacion": "Clasificación 5",
+    "existencia": 39,
+    "existencia_minima": 7,
+    "existencia_maxima": 71
+  },
+  {
+    "clave": "0074",
+    "precio": 18.01,
+    "clasificacion": "Clasificación 4",
+    "existencia": 21,
+    "existencia_minima": 22,
+    "existencia_maxima": 34
+  },
+  {
+    "clave": "0075",
+    "precio": 45.66,
+    "clasificacion": "Clasificación 4",
+    "existencia": 33,
+    "existencia_minima": 9,
+    "existencia_maxima": 79
+  },
+  {
+    "clave": "0076",
+    "precio": 16.34,
+    "clasificacion": "Clasificación 3",
+    "existencia": 39,
+    "existencia_minima": 17,
+    "existencia_maxima": 64
+  },
+  {
+    "clave": "0077",
+    "precio": 42.08,
+    "clasificacion": "Clasificación 5",
+    "existencia": 29,
+    "existencia_minima": 18,
+    "existencia_maxima": 36
+  },
+  {
+    "clave": "0078",
+    "precio": 34.32,
+    "clasificacion": "Clasificación 3",
+    "existencia": 5,
+    "existencia_minima": 20,
+    "existencia_maxima": 78
+  },
+  {
+    "clave": "0079",
+    "precio": 8.88,
+    "clasificacion": "Clasificación 2",
+    "existencia": 37,
+    "existencia_minima": 17,
+    "existencia_maxima": 71
+  },
+  {
+    "clave": "0080",
+    "precio": 19.35,
+    "clasificacion": "Clasificación 4",
+    "existencia": 35,
+    "existencia_minima": 21,
+    "existencia_maxima": 34
+  }
+]
